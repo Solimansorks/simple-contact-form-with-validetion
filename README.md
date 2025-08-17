@@ -19,7 +19,7 @@
 
 استنساخ المشروع:
 
-git clone https://github.com/yourusername/contact-us.git
+git clone https://github.com/Solimansorks/contact-us.git
 cd contact-us
 
 تثبيت التبعيات:
