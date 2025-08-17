@@ -19,7 +19,7 @@
 
 استنساخ المشروع:
 
-git clone https://github.com/Solimansorks/contact-us.git
+git clone https://github.com/Solimansorks/simple-contact-form-with-validetion
 cd contact-us
 
 تثبيت التبعيات:
